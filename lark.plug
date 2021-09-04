@@ -1,0 +1,6 @@
+[Core]
+Name = Lark
+Module = lark
+
+[Documentation]
+Description = This is the lark backend for ErrBot.
